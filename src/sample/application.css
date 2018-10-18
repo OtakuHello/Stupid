@@ -1,0 +1,29 @@
+.bodybg1{
+    -fx-background-image: url("/sample/image.jpg");
+    -fx-background-size: 100% 100%;
+}
+.bodybg2{
+    -fx-background-image: url("/sample/background.jpg");
+    -fx-background-size: 100% 100%;
+}
+#Help{
+    -fx-background-color: #eded00;
+}
+#Exit{
+    -fx-background-color: rgba(255, 0, 0, 0.94);
+}
+#search{
+    -fx-background-color: blue;
+}
+#delete{
+    -fx-background-color: #cb0000;
+}
+#repair{
+    -fx-background-color: #b259b2;
+}
+#add{
+    -fx-background-color: #009f00;
+}
+#lookup{
+    -fx-background-color: rgba(17, 33, 255, 0.71);
+}
